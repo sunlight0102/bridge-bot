@@ -21,7 +21,7 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"consola": "^2.15.3",
+		"consola": "^3.2.3",
 		"copyfiles": "^2.4.1",
 		"discord.js": "^14.6.0",
 		"dotenv": "^16.3.1",
